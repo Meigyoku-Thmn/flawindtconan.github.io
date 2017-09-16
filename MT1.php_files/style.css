@@ -1,0 +1,47 @@
+td.normal
+{
+	background: transparent url(normal.gif);
+	color: #000000;
+}
+td.beginner
+{
+	background: transparent url(beginner.gif);
+	
+}
+td.advanced
+{
+	background: transparent url(advanced.gif);
+	color: #000000;
+}
+td.pro
+{
+	background: transparent url(pro.gif);
+	color: #000000;
+}
+td.master
+{
+	background: transparent url(master.gif);
+	color: #000000;
+}
+.info
+{
+	border: 1px dotted #CFD3D5;
+	padding: 4px 4px 4px 4px;
+	margin: 4px;
+}
+.linfo
+{
+	border: 1px dotted #CFD3D5;
+	padding: 1px 1px 1px 2px;
+	-moz-border-radius:5px;
+}
+.tbinfo
+{
+	background: transparent url(info_bg.gif) no-repeat scroll;
+}
+.lv_panel
+{
+	background: #E4E7F5 url(../../images/gradients/gradient_panel.gif) repeat-x top left;
+	color: #000000;
+	border: 2px outset;
+}
